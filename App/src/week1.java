@@ -1,7 +1,6 @@
-
 import java.util.*;
-public class week1{
 
+class UsernameChecker {
 
     HashMap<String, Integer> users = new HashMap<>();
     HashMap<String, Integer> attempts = new HashMap<>();
